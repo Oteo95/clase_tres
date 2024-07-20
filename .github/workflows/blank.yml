@@ -31,7 +31,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Install Vercel CLI
-        run: npm intall --global vercel@latest
+        run: npm install --global vercel@latest
 
       # Runs a set of commands using the runners shell
       - name: Pull Vercel Environment Information
