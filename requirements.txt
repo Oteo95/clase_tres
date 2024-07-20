@@ -4,3 +4,9 @@ black
 starlette
 pydantic
 requests
+torch
+transformers
+sentence-transformers
+langchain
+langchain-core
+langchain-community
