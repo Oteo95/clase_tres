@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+black
+starlette
+pydantic
+requests
